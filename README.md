@@ -45,7 +45,7 @@ To get started with Menfes, follow these steps:
 5. Run the application by executing the following command:
 
    ```sh
-   npm start
+   node server.js
    ```
 
 6. The Menfes web application should now be accessible in your web browser at `http://127.0.0.1:<PORT>` where `<PORT>` is the port you specified in `config.json`.
