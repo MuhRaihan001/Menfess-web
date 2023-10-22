@@ -35,7 +35,7 @@ To get started with Menfes, follow these steps:
 2. Install the required dependencies by running the following command within the project directory:
 
    ```sh
-   npm install
+   npm install express mysql
    ```
 
 3. Configure the `config.json` file in the project root to set your preferred port and other configurations.
